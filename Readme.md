@@ -42,6 +42,6 @@ The workflow focuses on identifying duplicate submissions, resolving discrepanci
 
 `clean_data_PHH_K.R `  
 
-output:final_cleaned.xlsx
+output:final_cleaned.xlsx (Tips: Contains 66 lines without room number)
 
 ---
